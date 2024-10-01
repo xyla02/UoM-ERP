@@ -6,10 +6,11 @@ The aim of this project is to assess the impact of the **American Civil Libertie
 
 ## Context
 
-The effect of the ACLU period is interwined with the effect of other interventions such as the NYPD lawsuit took place in 2012-06-17, and the police investigation 2017-01-01. In order to assess the impact of the ACLU period, multiple effect is assessed to provide an overview of the impact:
-- The NYPD lawsuit period effect.
-- The combined effect of the NYPD lawsuit period and the ACLU period.
-- The additional effect of the ACLU period after the NYPD lawsuit period.
+The effectiveness of the 2019 Consent Decree for the Chicago Police Department (CPD) has been widely debated, with some suggesting that earlier reforms may explain the limited observed changes. From the data, it can be seen that passive resisters always receive low force, and assailants always receive high force. However, active resisters can receive either. When observing the conditional probability of an active resister receiving high force over time, there is a disruption in the trend exhibited from 2005 to 2011. In 2012, it begins to decline. This was during the time when the New York City Department (NYPD)'s controversial Stop and Frisk Policy was under heavy scrunity, which then later resulted in a lawsuit.
+
+Interrupted Time Series Analysis with ARIMA and Difference in Differences models were implemented to evaluate whether this decline was significant or not. From the previous literature, the period when the ACLU released the report regarding CPD excessive stop and searches, there is evidence to suggest that an additional "downwards" effect might occur.
+
+This code allows one to reproduce the results found.
 
 ## Data
 
