@@ -8,7 +8,7 @@ The aim of this project is to assess the impact of the **American Civil Libertie
 
 The effect of the ACLU period is interwined with the effect of other interventions such as the NYPD lawsuit took place in 2012-06-17, and the police investigation 2017-01-01. In order to assess the impact of the ACLU period, multiple effect is assessed to provide an overview of the impact:
 - The NYPD lawsuit period effect.
-- The Combined effect of the NYPD lawsuit period and the ACLU period.
+- The combined effect of the NYPD lawsuit period and the ACLU period.
 - The additional effect of the ACLU period after the NYPD lawsuit period.
 
 ## Data
