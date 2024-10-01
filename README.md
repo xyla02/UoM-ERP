@@ -4,6 +4,13 @@ This repository accompanies my extended research project for the University of M
 
 The aim of this project is to assess the impact of the **American Civil Liberties Union (ACLU)** of Illinois' settlement with the Chicago Police Department regarding **stop-and-frisk practices** on the total number of force incidents in Chicago, specifically those classified as **high-intensity force incidents**.
 
+## Context
+
+The effect of the ACLU period is interwined with the effect of other interventions such as the NYPD lawsuit took place in 2012-06-17, and the police investigation 2017-01-01. In order to assess the impact of the ACLU period, several effect is assessed:
+- The NYPD lawsuit period effect.
+- The Combined effect of the NYPD lawsuit period and the ACLU period.
+- The additional effect of the ACLU period after the NYPD lawsuit period.
+
 ## Data
 
 The data for this project was provided by **[insert data source]**. It includes the records of police force incidents in Chicago from 2004 till 2020. 
