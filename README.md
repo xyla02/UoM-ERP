@@ -25,8 +25,8 @@ There are two main RScripts in this repository:
      -
    From the different "resistance type", **Active Resister** is the only resistance type with both low and high force incidents after classification, and this shift the focus only onto active resisters where variance presents.
 3. **Modelling.R**  
-     This RScript contains all the analysis performed on the high force incidents on active resisters:
-       - Naive mean model on the monthly conditional probability of high force incidents on active resisters.
-       - ARIMA counterfactual forecasting and comparing the monthly conditional probability of high force incidents on active resisters.
-       - Difference in Difference analysis on the yearly total high force incidents on active resisters.
+   This RScript contains all the analysis performed on the high force incidents on active resisters:
+- Naive mean model on the monthly conditional probability of high force incidents on active resisters.
+- ARIMA counterfactual forecasting and comparing the monthly conditional probability of high force incidents on active resisters.
+- Difference in Difference analysis on the yearly total high force incidents on active resisters.
    The time window aggregatation by month and year simplifies the analysis process, and reduce the complexity in temporal dependency that is required for appropriate modelling, especially in difference in differences.
