@@ -1,5 +1,6 @@
 # Set directory
-setwd("C:/Users/edwin/OneDrive - The University of Manchester/Data_Science/Xyla")
+setwd("C:/path")
+
 rm(list=ls(all=TRUE))
 
 # Load necessary libraries
