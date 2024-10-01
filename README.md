@@ -29,4 +29,5 @@ There are two main RScripts in this repository:
 - Naive mean model on the monthly conditional probability of high force incidents on active resisters.
 - ARIMA counterfactual forecasting and comparing the monthly conditional probability of high force incidents on active resisters.
 - Difference in Difference analysis on the yearly total high force incidents on active resisters.
-   The time window aggregatation by month and year simplifies the analysis process, and reduce the complexity in temporal dependency that is required for appropriate modelling, especially in difference in differences.
+
+The time window aggregatation by month and year simplifies the analysis process, and reduce the complexity in temporal dependency that is required for appropriate modelling, especially in difference in differences.
