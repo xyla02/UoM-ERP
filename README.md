@@ -1,6 +1,6 @@
 # UoM-ERP
 
-This repository accompanies my extended research project for the University of Manchester titled **"Title"**.
+This repository accompanies my extended research project for the University of Manchester.
 
 ## Context
 
